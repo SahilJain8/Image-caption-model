@@ -1,4 +1,4 @@
-Image Caption Generator
+//Image Caption Generator//
 Overview
 The Image Caption Generator is a Python project that generates descriptive captions for images. It leverages computer vision and natural language processing techniques to analyze image content and produce human-readable captions. This tool is useful for adding context and descriptions to images, making them more accessible and informative.
 
